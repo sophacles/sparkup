@@ -1,5 +1,6 @@
 Sparkup
 =======
+** NOTE FOR THIS FORK** I have added a file: VimBundle.mk in the V0.2 branch. This is to copy files around for my vim-bundle-sparkup repo, which puts sparkup in a format that plays nice with pathogen.
 
 **Sparkup lets you write HTML code faster.** Don't believe us?
 [See it in action!](http://www.youtube.com/watch?v=Jw3jipcenKc)
@@ -8,11 +9,11 @@ You can write HTML in a CSS-like syntax, and have Sparkup handle the expansion t
 code. It is meant to help you write long HTML blocks in your text editor by letting you
 type less characters than needed.
 
-Sparkup is written in Python, and requires Python 2.5 or newer (2.5 is preinstalled in 
+Sparkup is written in Python, and requires Python 2.5 or newer (2.5 is preinstalled in
 Mac OS X Leopard). Sparkup also offers intregration into common text editors. Support for VIM
 and TextMate are currently included.
 
-A short screencast is available here: 
+A short screencast is available here:
 [http://www.youtube.com/watch?v=Jw3jipcenKc](http://www.youtube.com/watch?v=Jw3jipcenKc)
 
 Build instructions
